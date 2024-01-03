@@ -11,7 +11,7 @@ The following tools and analysis were used in this project:
 ## Abstract
 Port landing of Scomberoides commersonnianus and S. tol were obtained between July 2013 and June 2015 for stomach content analysis. Analysis of prey composition was done using permutational analysis of variance (permanova), with species, life stage (juvenile and adults), gender, and weather (rainy and dry season) as factors. Patterns of empty stomachs were investigated to estimate feeding intensity. Feeding intensity was estimated with logistic regression, using the same independent variables as above. Prey importance was also investigated. Prey importance was assessed using a Wilcox Rank Correlation analysis on the Index of Relative Importance (IRI) by species and life-stage. Permanova analysis showed that fish was the most important dietary item for juveniles and adults. Adults secondarily preferred crustaceans. Fish was predominant for S. commersonnianus and crustaceans, especially of the genus Acetes sp., was equally important for S. tol. Acetes sp. was more important during the dry season for both, S. commersonnianus and S. tol. Adults of both species showed a higher feeding activity. The IRI showed fish, followed by crustaceans, to be the most important food item for S. commersonnianus and S. tol. This study is to offer baseline data toward implementing a fishery in Pakistan for current and future generations.
 
-<img src="fig1.tif" align="center" width="500" height="500">
+<img src="fig1.jpg" align="center" width="500" height="500">
 Figure 1. Study area of feeding patterns of Scomberoides commersiannus and S. tol; shaded area along coast indicates location of commercial fishing grounds. 
 
 <img src="fig2.tif" align="center" width="500" height="300">
