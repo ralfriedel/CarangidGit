@@ -11,22 +11,22 @@ The following tools and analysis were used in this project:
 ## Abstract
 Port landing of Scomberoides commersonnianus and S. tol were obtained between July 2013 and June 2015 for stomach content analysis. Analysis of prey composition was done using permutational analysis of variance (permanova), with species, life stage (juvenile and adults), gender, and weather (rainy and dry season) as factors. Patterns of empty stomachs were investigated to estimate feeding intensity. Feeding intensity was estimated with logistic regression, using the same independent variables as above. Prey importance was also investigated. Prey importance was assessed using a Wilcox Rank Correlation analysis on the Index of Relative Importance (IRI) by species and life-stage. Permanova analysis showed that fish was the most important dietary item for juveniles and adults. Adults secondarily preferred crustaceans. Fish was predominant for S. commersonnianus and crustaceans, especially of the genus Acetes sp., was equally important for S. tol. Acetes sp. was more important during the dry season for both, S. commersonnianus and S. tol. Adults of both species showed a higher feeding activity. The IRI showed fish, followed by crustaceans, to be the most important food item for S. commersonnianus and S. tol. This study is to offer baseline data toward implementing a fishery in Pakistan for current and future generations.
 
-<img src="fig 1.tif" align="center" width="500" height="500">
+<img src="fig1.tif" align="center" width="500" height="500">
 Figure 1. Study area of feeding patterns of Scomberoides commersiannus and S. tol; shaded area along coast indicates location of commercial fishing grounds. 
 
-<img src="fig 2.tif" align="center" width="500" height="300">
+<img src="fig2.tif" align="center" width="500" height="300">
 Figure 2. Violin plot of length distribution of Scomberoides commersoniannus and S. tol sampled along the Pakistani coast.
 
-<img src="Fig 3.tif" align="center" width="500" height="300">
+<img src="fig3.tif" align="center" width="500" height="300">
 Figure 3. Average weight of prey items in stomach of juvenile and adult Scomberoides commersoniannus and S. tol sampled from landings in Pakistan between July 2013 and June 2014; data pooled for species. 
 
-<img src="fig 4.tif" align="center" width="500" height="300">
+<img src="fig4.tif" align="center" width="500" height="300">
 Figure 4. Average weight of prey items in stomach of Scomberoides commersoniannus and S. tol sampled from landings in Pakistan between July 2013 and June 2014.
  
-<img src="fig 5.tif" align="center" width="500" height="300">
+<img src="fig5.tif" align="center" width="500" height="300">
 Figure 5. Average weight of prey items in stomach of Scomberoides commersoniannus and S. tol by season (rainy and dry) sampled from landings in Pakistan between July 2013 and June 2014; data pooled for species.
 
-<img src="fig 6.tif" align="center" width="500" height="300">
+<img src="fig6.tif" align="center" width="500" height="300">
 Figure 6. Receiver operating characteristic plot indicating performance of binomial logistic regression of stomach emptiness on species, gender, life stage, and weather for Scomberoides commersoniannus and S. tol sampled from landings in Pakistan between July 2013 and June 2014.
 
 
