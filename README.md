@@ -15,19 +15,19 @@ Port landing of _Scomberoides commersonnianus_ and _S. tol_ were obtained betwee
 Figure 1. Study area of feeding patterns of Scomberoides commersiannus and S. tol; shaded area along coast indicates location of commercial fishing grounds. 
 
 
-<img src="fig2.jpg" align="center" width="500" height="300">
+<img src="fig2.jpg" align="center" width="500" height="400">
 Figure 2. Violin plot of length distribution of Scomberoides commersoniannus and S. tol sampled along the Pakistani coast.
 
 
-<img src="fig3.jpg" align="center" width="500" height="300">
+<img src="fig3.jpg" align="center" width="500" height="400">
 Figure 3. Average weight of prey items in stomach of juvenile and adult Scomberoides commersoniannus and S. tol sampled from landings in Pakistan between July 2013 and June 2014; data pooled for species. 
 
 
-<img src="fig4.jpg" align="center" width="500" height="300">
+<img src="fig4.jpg" align="center" width="500" height="400">
 Figure 4. Average weight of prey items in stomach of Scomberoides commersoniannus and S. tol sampled from landings in Pakistan between July 2013 and June 2014.
  
 
-<img src="fig5.jpg" align="center" width="500" height="300">
+<img src="fig5.jpg" align="center" width="500" height="400">
 Figure 5. Average weight of prey items in stomach of Scomberoides commersoniannus and S. tol by season (rainy and dry) sampled from landings in Pakistan between July 2013 and June 2014; data pooled for species.
 
 
